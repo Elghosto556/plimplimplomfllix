@@ -1,0 +1,43 @@
+body{
+color:rgb(241, 246, 244);
+background:black;
+font-family: "Noto Sans TC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+header {
+    border-style:dotted;
+    border-bottom: solid 2px rgb(209, 37, 236);
+    padding:20px;
+    text-align: center;
+}
+
+section{
+    background-image: url(https://images3.alphacoders.com/600/thumb-1920-600925.jpg);
+    padding-top: 20px;
+    padding-bottom: 100px;
+    display:grid;
+    justify-content:left;
+}
+.texto{
+    margin-right: 5%;
+}
+
+section2{
+    background-image: url(https://motionbgs.com/media/2252/the-silent-striker-lucia.jpg);
+    padding-top: 20px;
+    padding-bottom: 100px;
+    display:grid;
+    justify-content: left;
+
+}
+
+section3{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd8dad78-b1b2-402b-ba58-2da1070b5168/ddy1hg4-c34e6d59-26fe-410b-b339-b9dc7ee6392a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkOGRhZDc4LWIxYjItNDAyYi1iYTU4LTJkYTEwNzBiNTE2OFwvZGR5MWhnNC1jMzRlNmQ1OS0yNmZlLTQxMGItYjMzOS1iOWRjN2VlNjM5MmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bFcoL8jBSa038tqM0exjnMTkg16i98Zs1JDSJ3u4TCw);
+    padding-top: 20px;
+    padding-bottom: 100px;
+    display:grid;
+    justify-content: left;
+
+}
